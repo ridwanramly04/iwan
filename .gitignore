@@ -4,9 +4,7 @@
 # OS X Desktop Services Store files
 **/.DS_Store
 
-# Plugins
-inc/plugins/*
-!inc/plugins/index.php
+
 
 
 
