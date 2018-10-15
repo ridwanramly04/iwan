@@ -8,10 +8,7 @@
 inc/plugins/*
 !inc/plugins/index.php
 
-# Themes
-inc/themes/*
-!inc/themes/default/*
-!inc/themes/index.php
+
 
 # Dev config files
 **/*-dev.php
