@@ -2,7 +2,7 @@
 /**
  * Define database credentials
  */
-define("DB_HOST", "192.168.10.10");
+define("DB_HOST", "127.0.0.1");
 define("DB_NAME", "nextpost");
 define("DB_USER", "root");
 define("DB_PASS", "111599fa20a2a91b9647cd5c52e7f34c96661b2a22f2f345");
